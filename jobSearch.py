@@ -34,7 +34,7 @@ def jobSearch(keyword):
         jobInfo = "\n".join([jobTitle, company, location, link])
         jobs.append(jobInfo)
     jobList = "\n\n".join(jobs)
-    return(jobList)
+    print(jobList)
 
 # Enter what kind of job you want to search here
-print(jobSearch(""))
+jobSearch("")
