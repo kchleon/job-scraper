@@ -1,3 +1,5 @@
+## 5/4/2023 update: The program is not working at the moment
+
 # Job Scraper
 Scraping job searches from https://hk.jobsdb.com
 
